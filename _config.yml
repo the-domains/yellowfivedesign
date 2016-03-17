@@ -1,0 +1,28 @@
+name: yellowfivedesign
+favicon: null
+layout_spectrum: 0.8209107257425785
+typography_spectrum: 0.1345031496603042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.09798831189982593
+  lightness: 0.5566276365425438
+  saturation: 0.9823149130679667
+  rhythmicContrast: 0.018610747065395117
+purpose: []
