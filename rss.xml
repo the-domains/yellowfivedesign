@@ -4,7 +4,7 @@
         <description><![CDATA[Yellow Five Design]]></description>
         <link>https://thegrid.ai/yellowfivedesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 21:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 22:21:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yellowfivedesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/yellowfivedesign/b450e88c-86eb-4364-a711-aae8529b74d3/index.html</link>
             <guid isPermaLink="false">b450e88c-86eb-4364-a711-aae8529b74d3</guid>
             <pubDate>Fri, 18 Mar 2016 14:12:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Info]]></title>
-            <description><![CDATA[<article><h1>Info</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7475a8e23229df66a523748da554ce778a51c220.jpg"></article>]]></description>
-            <link>https://thegrid.ai/yellowfivedesign/48171a7f-6a13-46d7-8215-ef660a52c5e5/index.html</link>
-            <guid isPermaLink="false">48171a7f-6a13-46d7-8215-ef660a52c5e5</guid>
-            <pubDate>Fri, 18 Mar 2016 17:34:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
