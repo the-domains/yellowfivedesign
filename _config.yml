@@ -1,7 +1,7 @@
 name: yellowfivedesign
 favicon: null
-layout_spectrum: 0.25101
-typography_spectrum: 0.48687
+layout_spectrum: 1
+typography_spectrum: 0.19683
 title: Yellow Five Design
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.09798831189982593
+    - '#8b8b8b'
+    - '#16101d'
+    - '#40332e'
+    - '#605952'
+    - '#9da099'
+  brandStrength: 0.5
   lightness: 0.5566276365425438
   saturation: 0.9823149130679667
-  rhythmicContrast: 0.018610747065395117
+  rhythmicContrast: 0.5
 purpose: []
