@@ -1,6 +1,6 @@
 name: yellowfivedesign
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.72045
 typography_spectrum: 0.19683
 title: Yellow Five Design
 cta:
@@ -23,7 +23,7 @@ color:
     - '#605952'
     - '#9da099'
   brandStrength: 0
-  lightness: 0.5566276365425438
-  saturation: 0.9823149130679667
+  lightness: 0.75
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
