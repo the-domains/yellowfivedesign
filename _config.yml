@@ -1,29 +1,41 @@
-name: yellowfivedesign
-favicon: null
-layout_spectrum: 0.25035
-typography_spectrum: 0.63494
 title: Yellow Five Design
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.625
+  brandStrength: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#8b8b8b'
     - '#16101d'
     - '#40332e'
     - '#605952'
     - '#9da099'
-  brandStrength: 0
   lightness: 0.6875
-  saturation: 0.625
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: yellowfivedesign
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4132463
+layout_spectrum: 0.7308769
