@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Yellow Five Design]]></title>
         <description><![CDATA[Yellow Five Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yellowfivedesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:54:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 23:55:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yellowfivedesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The closure of walls.]]></title>
+            <description><![CDATA[<article><h1>The closure of walls.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/635632d3653bf78b06af9b94a657bc7d9755530a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yellowfivedesign/the-closure-of-walls/index.html</link>
+            <guid isPermaLink="false">f16f96e2-d5d7-49ef-83ac-3d58246a946b</guid>
+            <pubDate>Sun, 20 Mar 2016 23:54:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[California Dreaming]]></title>
             <description><![CDATA[<article><h1>California Dreaming</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0d145ca0cfccbe2d45bb2a0591c80a99ef4c4d5.jpg"></article>]]></description>
-            <link>undefinedcalifornia-dreaming/index.html</link>
+            <link>https://thegrid.ai/yellowfivedesign/california-dreaming/index.html</link>
             <guid isPermaLink="false">ec202b9c-ca6a-4d4c-99b7-70db00e53742</guid>
             <pubDate>Sun, 20 Mar 2016 23:54:52 GMT</pubDate>
         </item>
