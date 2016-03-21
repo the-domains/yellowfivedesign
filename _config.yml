@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: yellowfivedesign
 favicon: null
+name: yellowfivedesign
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4132463
-layout_spectrum: 0.6119403
+layout_spectrum: 0.8507463
