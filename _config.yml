@@ -1,7 +1,7 @@
 name: yellowfivedesign
 favicon: null
 layout_spectrum: 0.89432
-typography_spectrum: 0.4132463
+typography_spectrum: 0.47579
 title: Yellow Five Design
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#40332e'
     - '#605952'
     - '#9da099'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  brandStrength: 0.1875
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0
 purpose: []
