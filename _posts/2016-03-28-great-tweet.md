@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:aa004c1a-a6a9-4a66-8031-a9c137e99997'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-28T19:46:36.275Z'
+dateModified: '2016-03-28T19:46:33.994Z'
 author: []
-datePublished: '2016-03-28T17:45:36.823Z'
-publisher:
-  domain: ''
-  name: ''
 title: Great tweet.
-dateModified: '2016-03-28T17:44:08.358Z'
 sourcePath: _posts/2016-03-28-great-tweet.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: great-tweet/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
